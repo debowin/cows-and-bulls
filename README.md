@@ -1,5 +1,5 @@
 # COWS & BULLS
-* word guessing game *
+*word guessing game*
 ![Capture](https://raw.githubusercontent.com/debowin/cows-and-bulls/master/cap.jpg)
 > The number of cows is the number of correctly guessed letters in incorrect positions.
 > The number of bulls is the number of correctly guessed letters in the correct positions.
